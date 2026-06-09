@@ -1,6 +1,14 @@
 <?xml version="1.0"?>
 <updates>
-  <update type="major" displayVersion="152.0a4" appVersion="152.0a4" platformVersion="152.0a4" buildID="20260530160000" detailsURL="https://github.com/Vandanarajput/muulorigin_browser_release/releases/tag/v152.0.3">
-    <patch type="complete" URL="https://github.com/Vandanarajput/muulorigin_browser_release/releases/download/v152.0.3/mobrowser-152.0a4.en-US.win64.installer.exe" hashFunction="sha512" hashValue="c35a5d949164acbbd7eef660d4f3ead48e7b1fedbdbe91a232a59cd3d2dd3bcdec943fd19dfe6f7502e7bf0fea00478cfe1dc2a0970ef3a95e48d5e27028e680" size="88458223"/>
+  <update type="major"
+          displayVersion="152.0a7"
+          appVersion="152.0a7"
+          platformVersion="152.0a7"
+          buildID="20260609093537"
+          detailsURL="https://github.com/Vandanarajput/muulorigin_browser_release/releases/tag/v152.0.7">
+    <patch type="complete"
+           URL="https://github.com/Vandanarajput/muulorigin_browser_release/releases/download/v152.0.7/mobrowser-152.0a7.en-US.win64.installer.exe"
+           hashFunction="sha512"
+           hashValue="<paste the hash you just computed>"/>
   </update>
 </updates>
