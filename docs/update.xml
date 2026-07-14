@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <updates>
   <update type="major"
-          displayVersion="152.0a12"
-          appVersion="152.0a12"
-          platformVersion="152.0a12"
-          buildID="20260713161600"
-          detailsURL="https://github.com/Vandanarajput/muulorigin_browser_release/releases/tag/v152.0.12">
+          displayVersion="152.0a13"
+          appVersion="152.0a13"
+          platformVersion="152.0a13"
+          buildID="20260714183000"
+          detailsURL="https://github.com/Vandanarajput/muulorigin_browser_release/releases/tag/v152.0.13">
     <patch type="complete"
-           URL="https://github.com/Vandanarajput/muulorigin_browser_release/releases/download/v152.0.12/mobrowser-152.0a12.en-US.win64.installer.exe"
+           URL="https://github.com/Vandanarajput/muulorigin_browser_release/releases/download/v152.0.13/mobrowser-152.0a13.en-US.win64.installer.exe"
            hashFunction="sha512"
-           hashValue="4cbd124ec79f209acc2ba0435690eb3a5e0c29e370e3b76e184306c8b95e7e49ad906df8d3b004df7c80ff7e0c3aaa8c38e2abb38ae00cf41c1426ad541a9b75"/>
+           hashValue="d7750f3fe48146bcb691f120fc57e9d64923201d96810ea87d649957ed1115bcb75d145293694e81963ba4493522b6a2ed4f71e00bde74bfc87ab1fd118b1890"/>
   </update>
 </updates>
